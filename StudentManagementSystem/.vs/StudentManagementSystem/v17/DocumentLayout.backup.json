@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\brian\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\configloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\brian\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\brian\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\brian\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\brian\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A3BD961-62D3-45D4-AC38-379055B79D8D}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\ConfigLoader.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\ConfigLoader.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\ConfigLoader.cs",
+              "RelativeToolTip": "StudentManagementSystem\\ConfigLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:22:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:14:09.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\DBHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\DBHandler.cs",
+              "RelativeToolTip": "StudentManagementSystem\\DBHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:17:06.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\.env",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\.env",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\.env",
+              "RelativeToolTip": "StudentManagementSystem\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-01T03:09:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:06:06.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
